@@ -1,0 +1,12 @@
+{
+  "displayName": "AdaloWidgetIframe",
+  "components": [
+    {
+      "name": "IframeWidgetAdalo",
+      "manifest": "./src/components/IframeWidgetAdalo/manifest.json"
+    }
+  ],
+  "author": "stravensky",
+  "description": "widget iframe url test with thirdweb.com token drop",
+  "logo": "./example-logo.png"
+}

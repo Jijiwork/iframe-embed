@@ -1,0 +1,20 @@
+{
+  "name": "adalowidgetiframe",
+  "description": "widget iframe url test with thirdweb.com token drop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "stravensky",
+  "scripts": {
+    "start": "adalo dev",
+    "login": "adalo login",
+    "publish": "adalo publish"
+  },
+  "devDependencies": {
+    "@adalo/cli": "^0.0.59",
+    "react": "^16.9.0",
+    "react-art": "^16.6.0",
+    "react-dom": "^16.9.0",
+    "react-native-web": "^0.9.5"
+  }
+}
